@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'Bebas Neue Pro';
+  src: url('./assets/bebas_neue/BebasNeue-Regular.ttf');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.screen {
+  font-family: 'Bebas Neue Pro';
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine;
+}
+
+.figure {
+  box-shadow: 9px 9px 25px 0px rgba(0, 0, 0, 0.66);
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.watch {
+  width: 450px;
+  height: 270px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.controls {
+  width: 450px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.btn {
+  font-size: 2rem;
+  width: 120px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  background-color: tomato;
+}
+
+.btn:hover {
+  background-color: aquamarine;
+}
