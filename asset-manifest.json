@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Timer-RxJS/static/css/main.caaab8e1.chunk.css",
+    "main.js": "/Timer-RxJS/static/js/main.a4627e38.chunk.js",
+    "main.js.map": "/Timer-RxJS/static/js/main.a4627e38.chunk.js.map",
+    "runtime-main.js": "/Timer-RxJS/static/js/runtime-main.95863379.js",
+    "runtime-main.js.map": "/Timer-RxJS/static/js/runtime-main.95863379.js.map",
+    "static/js/2.eace5bf0.chunk.js": "/Timer-RxJS/static/js/2.eace5bf0.chunk.js",
+    "static/js/2.eace5bf0.chunk.js.map": "/Timer-RxJS/static/js/2.eace5bf0.chunk.js.map",
+    "index.html": "/Timer-RxJS/index.html",
+    "static/css/main.caaab8e1.chunk.css.map": "/Timer-RxJS/static/css/main.caaab8e1.chunk.css.map",
+    "static/js/2.eace5bf0.chunk.js.LICENSE.txt": "/Timer-RxJS/static/js/2.eace5bf0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Timer-RxJS/static/media/BebasNeue-Regular.c501e16f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95863379.js",
+    "static/js/2.eace5bf0.chunk.js",
+    "static/css/main.caaab8e1.chunk.css",
+    "static/js/main.a4627e38.chunk.js"
+  ]
+}
